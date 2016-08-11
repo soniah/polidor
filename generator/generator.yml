@@ -1,0 +1,16 @@
+---
+# a map of companyID to a map of deviceID and deviceName
+123:
+  2466: j1_readnews_com
+  2467: j2_readnews_com
+4567:
+  2012: j1_bethenews_com
+  2088: j2_bethenews_com
+42:
+  4266: j1_dislikenews_com
+  4267: j2_dislikenews_com
+  4268: j3_dislikenews_com
+  4269: j4_dislikenews_com
+44:
+  4466: j1_likenews_com
+  4467: j2_likenews_com

@@ -1,0 +1,11 @@
+---
+# retentions is a collection of collections
+# companyID -> retention -> period
+#
+# company 0 is default retention
+0:
+  retention: 5
+123:
+  retention: 10
+4567:
+  retention: 90
